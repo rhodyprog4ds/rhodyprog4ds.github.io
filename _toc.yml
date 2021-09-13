@@ -1,13 +1,14 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Tips for Success
-    chapters:
-    - file: tips/success
-    - file: tips/practice
-  - caption: Stories from Data Scientists
-    chapters:
-    - file: stories/why-stories.md
   - caption: Design
     chapters:
     - file: overview
+
+#   - caption: Tips for Success
+#     chapters:
+#     - file: tips/success
+#     - file: tips/practice
+#   - caption: Stories from Data Scientists
+#     chapters:
+#     - file: stories/why-stories.md
