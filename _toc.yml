@@ -1,9 +1,9 @@
 format: jb-book
-root: intro
+root: index
 parts:
   - caption: Design
     chapters:
-    - file: overview
+    - file: design/overview
 
 #   - caption: Tips for Success
 #     chapters:
